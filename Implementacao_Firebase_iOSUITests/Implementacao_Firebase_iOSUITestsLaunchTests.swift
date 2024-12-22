@@ -9,9 +9,9 @@ import XCTest
 
 final class Implementacao_Firebase_iOSUITestsLaunchTests: XCTestCase {
 
-    override class var runsForEachTargetApplicationUIConfiguration: Bool {
-        true
-    }
+//    override class var runsForEachTargetApplicationUIConfiguration: Bool {
+//        true
+//    }
 
     override func setUpWithError() throws {
         continueAfterFailure = false

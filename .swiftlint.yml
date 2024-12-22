@@ -1,0 +1,16 @@
+type_name:
+  allowed_symbols: ["_"]
+  min_length: 2
+  max_length:
+    warning: 40
+    error: 50
+  excluded:
+    - Implementacao_Firebase_iOSTests
+    - Implementacao_Firebase_iOSUITests
+    - Implementacao_Firebase_iOSUITestsLaunchTests
+
+identifier_name:
+  excluded:
+    - id
+    - vm
+
